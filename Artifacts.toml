@@ -1,0 +1,143 @@
+[[SeqGen]]
+arch = "aarch64"
+git-tree-sha1 = "65e32832d9404d36aeb624a899b31484c15a2499"
+os = "macos"
+
+    [[SeqGen.download]]
+    sha256 = "571673656de12e01f61f19addeb8db64bccdbefe758bcc793aa9f7797a8f09bd"
+    url = "https://github.com/JuliaBinaryWrappers/SeqGen_jll.jl/releases/download/SeqGen-v1.3.4+0/SeqGen.v1.3.4.aarch64-apple-darwin.tar.gz"
+[[SeqGen]]
+arch = "aarch64"
+git-tree-sha1 = "554936f0fe4325fc76951aed8c379d59b38ed3b8"
+libc = "glibc"
+os = "linux"
+
+    [[SeqGen.download]]
+    sha256 = "1a1ad38329c18c5f74fefea11de1f01cecdb3fc69f782d8ae9051aec4936e784"
+    url = "https://github.com/JuliaBinaryWrappers/SeqGen_jll.jl/releases/download/SeqGen-v1.3.4+0/SeqGen.v1.3.4.aarch64-linux-gnu.tar.gz"
+[[SeqGen]]
+arch = "aarch64"
+git-tree-sha1 = "6a04d49aeba0e05f8d8465d3a44295ab7d9ba027"
+libc = "musl"
+os = "linux"
+
+    [[SeqGen.download]]
+    sha256 = "ef4957318bf3ee105fa4aefde2f55a494a76e8db2bdf4dc51376502cb45fc403"
+    url = "https://github.com/JuliaBinaryWrappers/SeqGen_jll.jl/releases/download/SeqGen-v1.3.4+0/SeqGen.v1.3.4.aarch64-linux-musl.tar.gz"
+[[SeqGen]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2b7320fb714310ad772400c40bdbff49f1d33a9d"
+libc = "glibc"
+os = "linux"
+
+    [[SeqGen.download]]
+    sha256 = "e7d47b1ec6262277c9a65d5dac76edf3403d2e0c443602ca13efe020ebf926dd"
+    url = "https://github.com/JuliaBinaryWrappers/SeqGen_jll.jl/releases/download/SeqGen-v1.3.4+0/SeqGen.v1.3.4.armv6l-linux-gnueabihf.tar.gz"
+[[SeqGen]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "aaa2433db050cdd84b22f8027a20f162daa44563"
+libc = "musl"
+os = "linux"
+
+    [[SeqGen.download]]
+    sha256 = "d77d6420d741b454c99d4c03e54be3237fafc8fef372395320e002994b31ab91"
+    url = "https://github.com/JuliaBinaryWrappers/SeqGen_jll.jl/releases/download/SeqGen-v1.3.4+0/SeqGen.v1.3.4.armv6l-linux-musleabihf.tar.gz"
+[[SeqGen]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a51c0399f0b4c351497beda80351ce6d8aace900"
+libc = "glibc"
+os = "linux"
+
+    [[SeqGen.download]]
+    sha256 = "6afd4ba44b459bc9935272d4f5c3abb2c457a50b21a3cfd4ba575214342463e2"
+    url = "https://github.com/JuliaBinaryWrappers/SeqGen_jll.jl/releases/download/SeqGen-v1.3.4+0/SeqGen.v1.3.4.armv7l-linux-gnueabihf.tar.gz"
+[[SeqGen]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1c4b8acf1d2dc07dd83b42256222cee25d6fef0c"
+libc = "musl"
+os = "linux"
+
+    [[SeqGen.download]]
+    sha256 = "1bf615b0c9cba1224a21ba808e68ce133a1845c933dfa81a1b1878a6eae26172"
+    url = "https://github.com/JuliaBinaryWrappers/SeqGen_jll.jl/releases/download/SeqGen-v1.3.4+0/SeqGen.v1.3.4.armv7l-linux-musleabihf.tar.gz"
+[[SeqGen]]
+arch = "i686"
+git-tree-sha1 = "24406f6c945b3c08b246c84d43a065f594b25d2b"
+libc = "glibc"
+os = "linux"
+
+    [[SeqGen.download]]
+    sha256 = "d85bfdf25f10cb4a3f821ae0c4337f26612a7960762cabb912f09da6421bc4ad"
+    url = "https://github.com/JuliaBinaryWrappers/SeqGen_jll.jl/releases/download/SeqGen-v1.3.4+0/SeqGen.v1.3.4.i686-linux-gnu.tar.gz"
+[[SeqGen]]
+arch = "i686"
+git-tree-sha1 = "c75da0e0967d748c17a5121cfd486fa419737bc6"
+libc = "musl"
+os = "linux"
+
+    [[SeqGen.download]]
+    sha256 = "6d947022d7e26a51cc4f49c9b3d81948a8352f9e419dafd2c405767f14410b75"
+    url = "https://github.com/JuliaBinaryWrappers/SeqGen_jll.jl/releases/download/SeqGen-v1.3.4+0/SeqGen.v1.3.4.i686-linux-musl.tar.gz"
+[[SeqGen]]
+arch = "i686"
+git-tree-sha1 = "3d92c6cf15044c66ba80dc763b7f7386162cd183"
+os = "windows"
+
+    [[SeqGen.download]]
+    sha256 = "698945b7c6ce6ceb8dd2d8f7a311b896a2f1d1726de130614e4287fece4f8b74"
+    url = "https://github.com/JuliaBinaryWrappers/SeqGen_jll.jl/releases/download/SeqGen-v1.3.4+0/SeqGen.v1.3.4.i686-w64-mingw32.tar.gz"
+[[SeqGen]]
+arch = "powerpc64le"
+git-tree-sha1 = "d16c71d4a004689779dbdbea116e1d5fac3a926b"
+libc = "glibc"
+os = "linux"
+
+    [[SeqGen.download]]
+    sha256 = "1b55055d3a2733fa01fe87c05021a70f20a7ed9d75fd1f34f5c7fe2aa78505b8"
+    url = "https://github.com/JuliaBinaryWrappers/SeqGen_jll.jl/releases/download/SeqGen-v1.3.4+0/SeqGen.v1.3.4.powerpc64le-linux-gnu.tar.gz"
+[[SeqGen]]
+arch = "x86_64"
+git-tree-sha1 = "f8ffe5e1f4f611be8e85b5675b05fc02a4f51b7f"
+os = "macos"
+
+    [[SeqGen.download]]
+    sha256 = "f2b52f4500c6e896725789059a326ef72d7c6a430a988097bbc7ba56505b785b"
+    url = "https://github.com/JuliaBinaryWrappers/SeqGen_jll.jl/releases/download/SeqGen-v1.3.4+0/SeqGen.v1.3.4.x86_64-apple-darwin.tar.gz"
+[[SeqGen]]
+arch = "x86_64"
+git-tree-sha1 = "c2344daddc008aeb4ca65207cdbe0c007da93600"
+libc = "glibc"
+os = "linux"
+
+    [[SeqGen.download]]
+    sha256 = "4dcaee40c7b7b571442598b056dd81f43f08ebc3deb29e70a801cfa21f9b4a8f"
+    url = "https://github.com/JuliaBinaryWrappers/SeqGen_jll.jl/releases/download/SeqGen-v1.3.4+0/SeqGen.v1.3.4.x86_64-linux-gnu.tar.gz"
+[[SeqGen]]
+arch = "x86_64"
+git-tree-sha1 = "7b5b86a1ef24adc4e57e91607911623b10b09f02"
+libc = "musl"
+os = "linux"
+
+    [[SeqGen.download]]
+    sha256 = "e403514aed0537ceaab8019573fb9567554c4d971200941a285090c8a951589c"
+    url = "https://github.com/JuliaBinaryWrappers/SeqGen_jll.jl/releases/download/SeqGen-v1.3.4+0/SeqGen.v1.3.4.x86_64-linux-musl.tar.gz"
+[[SeqGen]]
+arch = "x86_64"
+git-tree-sha1 = "45ef05643c13f7af06cf79fb2557362d18ecf6a0"
+os = "freebsd"
+
+    [[SeqGen.download]]
+    sha256 = "a4db7f2f81049411123a33e0d96b0e54d32f8c2323e1697b0378eb8adc0f6350"
+    url = "https://github.com/JuliaBinaryWrappers/SeqGen_jll.jl/releases/download/SeqGen-v1.3.4+0/SeqGen.v1.3.4.x86_64-unknown-freebsd.tar.gz"
+[[SeqGen]]
+arch = "x86_64"
+git-tree-sha1 = "9bc31128337c6a7719eed11075349692791591da"
+os = "windows"
+
+    [[SeqGen.download]]
+    sha256 = "5d5a522497500e00b8f25bdddc866114acd8b978c613ad124ee72b38e7ec2b59"
+    url = "https://github.com/JuliaBinaryWrappers/SeqGen_jll.jl/releases/download/SeqGen-v1.3.4+0/SeqGen.v1.3.4.x86_64-w64-mingw32.tar.gz"
